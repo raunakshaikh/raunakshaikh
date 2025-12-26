@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Raunak Shaikh 👋
 
-<!--
-**raunakshaikh/raunakshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Full-Stack Developer 🚀
+BCA Student at **Integral University**. I love building things with code and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Java, JavaScript, SQL
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Node.js, Express
+- **Database:** MySQL, MongoDB
+
+---
+
+### 📊 GitHub Stats
+![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=raunakshaikh&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to reach me:
+- **LinkedIn:** [raunak-shaikh](https://www.linkedin.com/in/raunak-shaikh-214309265/)
