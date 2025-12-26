@@ -19,4 +19,4 @@ BCA Student at **Integral University**. I love building things with code and exp
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [raunak-shaikh](https://www.linkedin.com/in/raunak-shaikh-214309265/)
+- **LinkedIn:** [raunakshaikh] https://www.linkedin.com/in/raunak-shaikh-278627323
